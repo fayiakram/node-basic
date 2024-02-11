@@ -1,0 +1,22 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "latihan node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayiakram/node-basic.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "fayi.akram99@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayiakram/node-basic/issues"
+  },
+  "homepage": "https://github.com/fayiakram/node-basic#readme"
+}
